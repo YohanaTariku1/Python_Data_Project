@@ -4,7 +4,7 @@
 
 To identify the most in-demand skills for the three most common data roles, I first determined which job titles appeared the most frequently. Then, for each of those roles, I pulled out the top five required skills. This gives a clear picture of which skills are most valuable for each role and helps me understand what to focus on depending on the career path I want to pursue.
 
-View my notebook with detailed steps here: [2_Skill_Demand.ipynb](2_Project\2_Skill_Demand.ipynb)
+View my notebook with detailed steps here: [2_Skill_Demand.ipynb](2_Project/2_Skill_Demand.ipynb)
 
 ### Visualize Date
 
@@ -20,7 +20,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skills for Data Roles](2_Project\images\skill_demand_by_role.png)
+![Visualization of Top Skills for Data Roles](2_Project/images/skill_demand_by_role.png)
 
 ### Insights
 
