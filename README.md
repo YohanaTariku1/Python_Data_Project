@@ -20,7 +20,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skills for Data Roles](images/skill_demand_by_role.png)
+![Visualization of Top Skills for Data Roles](2_Project/images/skill_demand_by_role.png)
 
 ### Insights
 
@@ -53,7 +53,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Trend of Top Skills for Data Analysts](images/skill_trend.png)
+![Visualization of Trend of Top Skills for Data Analysts](2_Project/images/skill_trend.png)
 
 ### Insights
 
@@ -80,7 +80,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Salary Analysis for Data Jobs in US](images/salary_distribution_by_role.png)
+![Visualization of Salary Analysis for Data Jobs in US](2_Project/images/salary_distribution_by_role.png)
 
 ### Insights
 
@@ -108,7 +108,7 @@ plt.show()
 
 ### Results
 
-![Highest Paid and Most In-Demand Skills for Data Analysts in US](images/demand_and_pay_by_skill.png)
+![Highest Paid and Most In-Demand Skills for Data Analysts in US](2_Project/images/demand_and_pay_by_skill.png)
 
 ### Insights
 
@@ -136,7 +136,7 @@ plt.show()
 
 ### Results
 
-![Most Optimal Skills for Data Analysts to Learn](images/optimal_skills_analysis.png)
+![Most Optimal Skills for Data Analysts to Learn](2_Project/images/optimal_skills_analysis.png)
 
 ### Insights
 
@@ -161,7 +161,7 @@ plt.show()
 
 ### Results
 
-![Most Optimal Skills for Data Analysts to Learn Colored by Technology](images/optimal_skills_by_technology.png)
+![Most Optimal Skills for Data Analysts to Learn Colored by Technology](2_Project/images/optimal_skills_by_technology.png)
 
 ### Insights
 
