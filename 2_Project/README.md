@@ -1,4 +1,4 @@
-# The Analysis
+# Analysis
 
 ## 1. What are the  most demanded skills for the top 3 most popular data roles?
 
@@ -63,7 +63,7 @@ plt.show()
 
 - SAS consistently shows the lowest demand, and continues a slow downward trend, suggesting reduced market emphasis on legacy analytics tools.
 
-## 2. How well do jobs and skills pay for Data Analysts in the US?
+## 3. How well do jobs and skills pay for Data Analysts in the US?
 
 ### Visualize Data
 
@@ -119,3 +119,52 @@ plt.show()
 - Overall, the data reveals a clear divide between the skills that pay the most and those that are most in demand. Data analysts who combine essential foundational skills with higher-paying technical expertise are best positioned to maximize both job opportunities and compensation.
 
 
+## 4. What is the optimal skill to learn for Data Analysts?
+
+### Visualize Data
+
+```python
+
+from adjustText import adjust_text
+
+df_DA_skills_high_demand.plot(kind='scatter', x='skill_percent', y='median_salary')
+
+plt.tight_layout()
+plt.show()
+
+```
+
+### Results
+
+![Most Optimal Skills for Data Analysts to Learn](images/optimal_skills_analysis.png)
+
+### Insights
+
+- Skills like **Python, Oracle, and SQL Server** are linked to the **highest median salaries**, suggesting that stronger technical expertise can significantly boost earning potential.
+- **SQL and Excel** appear in the **largest share of job postings**, showing that employers still highly value core, foundational data skills for Data Analyst roles.
+
+
+### Optimal Skills for Data Analysts colored by Technology
+
+### Visualize Data
+
+```python
+
+from adjustText import adjust_text
+
+sns.scatterplot(data=df_plot, x='skill_percent', y='median_salary', hue='technology')
+
+plt.tight_layout()
+plt.show()
+
+```
+
+### Results
+
+![Most Optimal Skills for Data Analysts to Learn Colored by Technology](images/optimal_skills_by_technology.png)
+
+### Insights
+
+- **Programming and database skills** like **Python, SQL Server, and Oracle** generally lead to higher salary opportunities, emphasizing the value of more advanced technical capabilities.
+
+- **Analyst tools** such as **Excel and Power BI** remain highly in demand, reinforcing that employers expect Data Analysts to balance actionable business tools with deeper technical skills.
