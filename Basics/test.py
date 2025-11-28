@@ -1,0 +1,1 @@
+print("Ain't shit funny!")
