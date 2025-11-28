@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to my analysis of the data job market. This project was created out of a desire to sharpen my Python skills while also gaining a clearer understanding of the job market. Focusing mainly on data analysts, it dives into the highest-paying and most in-demand skills. The data was sourced from (link will be added), and I used it to analyze salary trends, high-demand technical skills, and what the optimal skills are to learn by intersecting salary and demand for data analytics job postings in 2023.
+Welcome to my analysis of the data job market. This project was created out of a desire to sharpen my Python skills while also gaining a clearer understanding of the job market. Focusing mainly on data analysts, it dives into the highest-paying and most in-demand skills. The data was sourced from [Python Course by Luke Barousse](https://huggingface.co/datasets/lukebarousse/data_jobs), and I used it to analyze salary trends, high-demand technical skills, and what the optimal skills are to learn by intersecting salary and demand for data analytics job postings in 2023.
 
 # The Questions
 
